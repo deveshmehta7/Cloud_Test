@@ -1,0 +1,19 @@
+{
+  "latitudes": [
+    0,
+    0,
+    70
+  ],
+  "longitudes": [
+    90,
+    0,
+    45
+  ],
+  "canTravel": [
+    "2",
+    "0 2",
+    "0 1"
+  ],
+  "source": 0,
+  "destination": 1
+}
